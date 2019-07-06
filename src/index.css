@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.pokeball{
+  top:20px;
+  left:-170px;
+  position:absolute;
+  opacity: 0.6;
+  
+}
+.poke{
+  overflow: hidden;
+  padding-left: 80px;
+}
